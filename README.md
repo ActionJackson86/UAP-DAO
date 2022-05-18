@@ -2,7 +2,7 @@
 This serves as a temporary public repo for the UAP DAO,  a decentralized autonomous organization aiming to accelerate R&D and awareness of UAPs and related phenomena.
 
 Within this repo is a cloned 'scaffold-eth' dir that contains an example ETH dapp.
-***scaffold-eth requires the lts version of node***
+***NOTE:***scaffold-eth requires the lts version of node
 - To start 👷‍ Hardhat chain:
 ```
 cd scaffold-eth
